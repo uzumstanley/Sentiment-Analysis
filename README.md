@@ -14,3 +14,6 @@ order to perform tasks such as machine translation, sentiment analysis.
 
 ![Screenshot 2024-09-21 at 18 26 52](https://github.com/user-attachments/assets/8c00e8ee-e0d7-45cc-86cd-d12d2aae87ce)
 
+
+![Screenshot 2024-09-21 at 18 27 15](https://github.com/user-attachments/assets/99b6ce32-e2e4-4a6f-a0b5-e2f6fcc44e74)
+
