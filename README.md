@@ -11,3 +11,6 @@ recognition, natural language understanding, and natural language
 generation. 
  NLP teaches computers to process and analyse natural language data in
 order to perform tasks such as machine translation, sentiment analysis.
+
+![Screenshot 2024-09-21 at 18 26 52](https://github.com/user-attachments/assets/8c00e8ee-e0d7-45cc-86cd-d12d2aae87ce)
+
